@@ -28,7 +28,7 @@ class Crispr extends Component {
               I am convenient because I require little markup to use effectively.</p>
                                 </div>
                                 <div className="card-action">
-                                    <a href="/#/introduction_to_crispr">This is a link</a>
+                                    <a href="https://sanket-224.github.io/#/introduction_to_crispr">This is a link</a>
                                 </div>
                             </div>
                         </div>
