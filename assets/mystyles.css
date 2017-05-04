@@ -1,0 +1,46 @@
+
+#brightness {
+    opacity: 1.0;
+    background: no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#bg {
+    /* The image used */
+    background-image: url("genome_editing.jpg");
+
+    /* Full height */
+    /*width: 100%; 
+
+    /* Center and scale the image nicely */
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    opacity: 0.4
+}
+
+.bg {
+ background-image: url("genome_editing.jpg");
+
+    /* Full height */
+    /*width: 100%; */
+
+    /* Center and scale the image nicely */
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   */
+}
+
+h1 {
+    font-size: 4.2rem;
+    line-height: 110%;
+    margin: 0 0 1rem 0;
+    text-align: center;
+}
+
+#noob{
+    text-align: center;
+}
