@@ -21,7 +21,7 @@ class Crispr extends Component {
                         <div className="col s3">
                             <div className="card">
                                 <div className="card-image">
-                                    <img src="../assets/crispr.jpg" width="30%" height="170px" />
+                                    <img src="assets/crispr.jpg" width="30%" height="170px" />
                                 </div>
                                 <div className="card-content">
                                     <p>I am a very simple card. I am good at containing small bits of information.
@@ -38,7 +38,7 @@ class Crispr extends Component {
                         <div className="col s3">
                             <div className="card">
                                 <div className="card-image">
-                                    <img src="../assets/hiv.jpg" width="30%" height="30%" />
+                                    <img src="assets/hiv.jpg" width="30%" height="30%" />
                                 {/*}    <span className="card-title">Card Title</span> */}
                                 </div>
                                 <div className="card-content">
@@ -57,7 +57,7 @@ class Crispr extends Component {
                         <div className="col s3">
                             <div className="card">
                                 <div className="card-image">
-                                    <img src="../assets/sol1.jpg" width="30%" height="30%" />
+                                    <img src="assets/sol1.jpg" width="30%" height="30%" />
                                     <span className="card-title">Card Title</span>
                                 </div>
                                 <div className="card-content">
