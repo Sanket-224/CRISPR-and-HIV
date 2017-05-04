@@ -75,7 +75,7 @@ class Crispr extends Component {
                         <div className="col s3">
                             <div className="card">
                                 <div className="card-image">
-                                    <img src="../assets/receptor2.png" width="30%" height="30%" />
+                                    <img src="assets/receptor2.png" width="30%" height="30%" />
                                     <span className="card-title">Card Title</span>
                                 </div>
                                 <div className="card-content">
