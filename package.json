@@ -1,7 +1,7 @@
 {
   "name": "crispr-and-hiv",
   "version": "1.0.0",
-  "description": "Reactivemaps Starter App",
+  "description": "Biology Project",
   "main": "index.js",
   "scripts": {
     "webpack-dev-server": "webpack-dev-server --inline --hot --port 8000",
