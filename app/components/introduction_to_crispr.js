@@ -109,7 +109,7 @@ between the crRNA and mRNA rather than the DNA, targeted by type III-B systems.)
                     <h4>Protospacer adjacent motifs</h4>
                     <p>
                         Bioinformatic investigation of regions of phage genomes that were extracted as spacers
-(named protospacers) uncovered that they were not randomly chosen but rather were discovered neighboring short (3 { 5 bp) DNA groupings named protospacer adjoining mtifs (PAM).
+(named protospacers) uncovered that they were not randomly chosen but rather were discovered neighboring short (3- 5 bp) DNA groupings named protospacer adjoining mtifs (PAM).
 Investigation of CRISPR-Cas systems showed PAMs to be imperative for type I and type II,
 yet not type III system during acquisition. In type I and type II system, protospacers are
 extracted at positions nearby a PAM seqeunce, with the other side of the spacer cut utilizing
