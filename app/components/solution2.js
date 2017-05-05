@@ -9,6 +9,9 @@ class solution2 extends Component {
                 <h1> CRISPR Solution 2 </h1>
                 <hr color="#665451" />
                 <br />
+                 <div class="video-container" id="noob">
+                    <iframe width="700" height="500" src="//www.youtube.com/embed/A98MkcZORFU" frameborder="10" allowfullscreen></iframe>
+                </div>
                 <div>
                     <p>
                         This solution comes from the understanding of how HIV interacts with our cells. HIV, sim-
@@ -149,9 +152,7 @@ deep sequencing. Results demonstrated that CRISPR/Cas9 is an efficient tool to e
 CCR5 locus.
                     </p>
                 </div>
-                <div class="video-container" id="noob">
-                    <iframe width="700" height="500" src="//www.youtube.com/embed/A98MkcZORFU" frameborder="10" allowfullscreen></iframe>
-                </div>
+               
                 <br />
                 <br />
             </div>

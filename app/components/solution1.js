@@ -9,6 +9,9 @@ class solution1 extends Component {
                 <h1> CRISPR Solution 1 </h1>
                 <hr color="#665451" />
                 <br />
+                <div class="video-container" id="noob">
+                    <iframe width="700" height="500" src="//www.youtube.com/embed/b4jxSNu9oEQ" frameborder="10" allowfullscreen></iframe>
+                </div>
                 <div>
                     <p>
                         Using the much famous CRISPR/CAS9 gene editing technique, scientist have shown that
@@ -64,9 +67,7 @@ scientist are yet to figure out how to prevent further infections, which is cruc
 of any treatment that offers better results than anti-retroviral drugs.
                     </p>
                 </div>
-                <div class="video-container" id="noob">
-                    <iframe width="700" height="500" src="//www.youtube.com/embed/b4jxSNu9oEQ" frameborder="10" allowfullscreen></iframe>
-                </div>
+                
                 <br />
                 <br />
             </div>

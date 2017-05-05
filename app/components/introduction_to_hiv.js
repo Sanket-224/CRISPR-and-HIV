@@ -9,6 +9,9 @@ class introduction_to_hiv extends Component {
                 <h1> HIV </h1>
                 <hr color="#665451" />
                 <br />
+                <div class="video-container" id="noob">
+                    <iframe width="700" height="500" src="//www.youtube.com/embed/qjUnnmuOrvM" frameborder="10" allowfullscreen></iframe>
+                </div>
                 <div>
                     <p class="flow-text">
                         HIV stands for human immunodeficiency virus. HIV is not a disease , it is virus whose
@@ -80,9 +83,6 @@ acts to break up the long protein chains that form the noninfectious virus. The 
 proteins combine to form mature, infectious HIV.
                 </p>
 
-                </div>
-                <div class="video-container" id="noob">
-                    <iframe width="700" height="500" src="//www.youtube.com/embed/qjUnnmuOrvM" frameborder="10" allowfullscreen></iframe>
                 </div>
                 <br />
                 <br />
