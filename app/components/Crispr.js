@@ -208,7 +208,7 @@ acquire AIDS....</p>
 they can edit HIV gene sequence...</p>
                             </div>
                             <div className="card-action">
-                                <a href="https://sanket-224.github.io/CRISPR-and-HIV/#/crispr-sol1">CRISPR - Solution 1</a>
+                                <a href="https://sanket-224.github.io/CRISPR-and-HIV/#/solution1">CRISPR - Solution 1</a>
                             </div>
                         </div>
                     </div>
@@ -226,7 +226,7 @@ they can edit HIV gene sequence...</p>
 ilarly to other viruse...</p>
                             </div>
                             <div className="card-action">
-                                <a href="https://sanket-224.github.io/CRISPR-and-HIV/#/crispr-sol2">CRISPR - Solution 2</a>
+                                <a href="https://sanket-224.github.io/CRISPR-and-HIV/#/solution2">CRISPR - Solution 2</a>
                             </div>
                         </div>
                     </div>
