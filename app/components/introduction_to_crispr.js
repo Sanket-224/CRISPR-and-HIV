@@ -9,6 +9,9 @@ class introduction_to_crispr extends Component {
                 <h1> CRISPR </h1>
                 <hr color="#665451" />
                 <br />
+             <div class="video-container" id="noob">
+                    <iframe width="700" height="500" src="//www.youtube.com/embed/0LSnQukLmM4" frameborder="10" allowfullscreen></iframe>
+                </div>
                 <div>
                     <p>
                         The discovery of clustered DNA repeats began independently in three parts of the world.
@@ -389,9 +392,7 @@ base blending past the spacer grouping signals self and avoids DNA cleavage.[111
 guided CRISPR catalysts are named sort V confinement chemicals.
                     </p>
                 </div>
-                <div class="video-container" id="noob">
-                    <iframe width="700" height="500" src="//www.youtube.com/embed/0LSnQukLmM4" frameborder="10" allowfullscreen></iframe>
-                </div>
+               
                 <br />
                 <br />
             </div>
